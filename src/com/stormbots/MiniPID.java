@@ -11,9 +11,10 @@ package com.stormbots;
 */
 public class MiniPID{
 	//**********************************
-	// Class private variables
+	// Class private variables - this class
 	//**********************************
 
+	// Some Doubles
 	private double P=0;
 	private double I=0;
 	private double D=0;
